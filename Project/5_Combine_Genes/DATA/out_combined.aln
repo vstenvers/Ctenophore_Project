@@ -1,0 +1,554 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Bolinopsis_infundibulum        CAACCTGGTTGATCCTGCCAGTAGTCATATGCTTGTCTCAAAGATTAAGC
+Euplokamis_dunlapae            ----CTGGTTGATCCTGCCAGTAGTCATATGCTTGTCTCAAAGATTAAGC
+Thalassocalyce_inconstans      CAACCTGGTTGATCCTGCCAGTAGTCATATGCTTGTCTCAAAGATTAAGC
+Dryodora_glandiformis          ----CTGGTTGATCCTGCCAGTAGTCATATGCTTGTCTCAAAGATTAAGC
+Lampocteis_cruentiventer       ----------------------AGTCATATGCTTGTCTCAAAGATTAAGC
+Lobata_sp                      -------------------------------CTTGTCTCAAAGATTAAGC
+                                                              *******************
+
+Bolinopsis_infundibulum        CATGCATGTCTAAGTATAAACTTTTATACTGTGAAACTGCGAATGGCTCA
+Euplokamis_dunlapae            CATGCATGTCTAAGTGTAAACTTTTATACTGTGAAACTGCGAATGGCTCA
+Thalassocalyce_inconstans      CATGCATGTCTAAGTATAAACTTCTATACTGTGAAACTGCGAATGGCTCA
+Dryodora_glandiformis          CATGCATGTCTAAGTATAAACTTTTATACTGTGAAACTGCGAATGGCTCA
+Lampocteis_cruentiventer       CATGCATGTCTAAGTATAAACTTTTATACTGTGAAACTGCGAATGGCTCA
+Lobata_sp                      CATGCATGTCTAAGTATAAACTTTTATACTGTGAA-CTGCGAATGGCTCA
+                               *************** ******* *********** **************
+
+Bolinopsis_infundibulum        TTAAATCAGTTATCGTCTATTTGATTGTGCCCTTACTACATGGATAACCG
+Euplokamis_dunlapae            TTAAATCAGTTATCGTCTATTTGATTGTGCCCCTGCTACATGGATAACCG
+Thalassocalyce_inconstans      TTAAATCAGTTATCGTCTATTTGATTGTGCCCTTACTACATGGATAACCG
+Dryodora_glandiformis          TTAAATCAGTTATCGTCTATTTGATTGTGCCCTTACTACATGGATAACCG
+Lampocteis_cruentiventer       TTAAATCAGTTATCGTCTATTTGATTGTGCCCTTACTACATGGATAACCG
+Lobata_sp                      TTAAATCAGTTATCGTCTATTTGATTGTGCC-TTACTACATGGATAACCG
+                               *******************************  * ***************
+
+Bolinopsis_infundibulum        TAGTAATTCTAGAGCTAATACATGCGAAAAGTCCCGACTTCTGGAAGGGA
+Euplokamis_dunlapae            TAGTAATTCTAGAGCTAATACATGCGAAAAGTCCCGACTTCTGGAAGGGA
+Thalassocalyce_inconstans      TAGTAATTCTAGAGCTAATACATGCGAAAAGTCCCGACTTCTGGAAGGGA
+Dryodora_glandiformis          TAGTAATTCTAGAGCTAATACATGCGAAAAGTCCCGACTTCTGGAAGGGA
+Lampocteis_cruentiventer       TAGTAATTCTAGAGCTAATACATGCGAAAAGTCCCGACTTCTGGAAGGGA
+Lobata_sp                      TAGTAATTCTAGAGCTAATACATGCGAAAAGTCCCGACTTCTGGAAGG-A
+                               ************************************************ *
+
+Bolinopsis_infundibulum        TGTATTTATTAGATTAAAAACCAATGCGTTTAAC----GACGCTTTTCGG
+Euplokamis_dunlapae            TGTATTTATTAGATTAAAAACCAGCGCGTTCCGCAAGGGACGCTCCAAGG
+Thalassocalyce_inconstans      TGTATTTATTAGATTAAAAACCAATGCGTTTAAC----GACGCTTCGTGG
+Dryodora_glandiformis          TGTATTTATTAGATTAAAAACCAATGCGTTTTAC----GACGCTCCCTGG
+Lampocteis_cruentiventer       TGTATTTATTAGATTAAAAACCAATGCGTTTAAC----GACGCTTCGTGG
+Lobata_sp                      TGTATTTATTAGATTAAAAACCAATGCGTTTTAC----GACGCTTTTCGG
+                               ***********************  *****   *    ******    **
+
+Bolinopsis_infundibulum        TGATTCATAATAACTGTTCGAATCGCATGGCCCTCGTGCCGGCGATGTTT
+Euplokamis_dunlapae            TGATTCATAATAACTGTTCGAATCGCACGGCCTCCGCGCCGGCGATGTTT
+Thalassocalyce_inconstans      TGATTCATAATAACTGTTCGAATCGCATGGCCCTCGTGCCGGCGATGTTT
+Dryodora_glandiformis          TGATTCATAATAACTGTTCGAATCGCACGGCCTT-GCGCCGGCGATGTTT
+Lampocteis_cruentiventer       TGATTCATAATAACTGTTCGAATCGCATGGCCCTCGTGCCGGCGATGTTT
+Lobata_sp                      TGATTCATAATAACTGTTCGA-TCGCATGGCC-TCGTGCCGGCGATGTTT
+                               ********************* ***** ****   * *************
+
+Bolinopsis_infundibulum        CATTCGAGTTTCTGCCCTATCAACTTTCGATGGTAAGGTATTGGCTTACC
+Euplokamis_dunlapae            CATTCGAGTTTCTGCCCTATCAACTTTCGATGGTAAGGTATTGGCTTACC
+Thalassocalyce_inconstans      CATTCGAGTTTCTGCCCTATCAACTTTCGATGGTAAGGTATTGGCTTACC
+Dryodora_glandiformis          CATTCGAGTTTCTGCCCTATCAACTTTCGATGGTAAGGTATTGGCTTACC
+Lampocteis_cruentiventer       CATTCGAGTTTCTGCCCTATCAACTTTCGATGGTAAGGTATTGGCTTACC
+Lobata_sp                      CATTCGAGTTTCTG--CTATCAACTTTCGATGGTAAGGTATTGGCTTAC-
+                               **************  ********************************* 
+
+Bolinopsis_infundibulum        ATGGTGACAACGGGTAACGGAGAATTAGGGTTCGATTCCGGAGAGGGAGC
+Euplokamis_dunlapae            ATGGTTACAACGGGTAACGGAGAATTAGGGTTCGATTCCGGAGAGGGAGC
+Thalassocalyce_inconstans      ATGGTGACAACGGGTAACGGAGAATTAGGGTTCGATTCCGGAGAGGGAGC
+Dryodora_glandiformis          ATGGTTACAACGGGTAACGGAGAATTAGGGTTCGATTCCGGAGAGGGAGC
+Lampocteis_cruentiventer       ATGGTGACAACGGGTAACGGAGAATTAGGGTTCGATTCCGGAGAGGGAGC
+Lobata_sp                      ATGGTGACAACGGGTAACGGAGAATTAGGGTTCGATTCCGGAGAGGGAGC
+                               ***** ********************************************
+
+Bolinopsis_infundibulum        CCGAGAAACGGCTACCACATCCAAGGAAGGCAGCAGGCGCGCAAATTACC
+Euplokamis_dunlapae            CCGAGAAACGGCTACCACATCCAAGGAAGGCAGCAGGCGCGCAAATTACC
+Thalassocalyce_inconstans      CCGAGAAACGGCTACCACATCCAAGGAAGGCAGCAGGCGCGCAAATTACC
+Dryodora_glandiformis          CCGAGAAACGGCTACCACATCCAAGGAAGGCAGCAGGCGCGCAAATTACC
+Lampocteis_cruentiventer       CCGAGAAACGGCTACCACATCCAAGGAAGGCAGCAGGCGCGCAAATTACC
+Lobata_sp                      CCGAGAAACGGCTACCACATCCAAGGAAGGCAGCAG-CGCGCAAATTACC
+                               ************************************ *************
+
+Bolinopsis_infundibulum        CAATCCCGATTCGGGGAGGTAGTGACAATAAATAACGTTGCAGGCGCCAA
+Euplokamis_dunlapae            CAATCCCGATTCGGGGAGGTAGTGACAATAAATAACGTTGCAGGTGCCTT
+Thalassocalyce_inconstans      CAATCCCGATTCGGGGAGGTAGTGACAATAAATAACGTTGCAGGCGCCAA
+Dryodora_glandiformis          CAATCCCGACTCGGGGAGGTAGTGACAATAAATAACGTTGCAGGCGCCAA
+Lampocteis_cruentiventer       CAATCCCGACTCGGGGAGGTAGTGACAATAAATAACGTTGCAGGCGCCAA
+Lobata_sp                      CAATCCCGATTCGGG-AGGTAGTGACAATAAATAACGTTGCAGGCGCCAA
+                               ********* ***** **************************** ***  
+
+Bolinopsis_infundibulum        CGGCTTCTGCAGTCGGAATGAGTACAATATAACACCCTTAACGAGGAACA
+Euplokamis_dunlapae            TGGCCTCTGCAGTCGGAATGAGTACAATACAACACCCTTAACGAGGAACA
+Thalassocalyce_inconstans      CGGCTTCTGCAGTCGGAATGAGTACAATATAACACCCTTAACGAGGAACA
+Dryodora_glandiformis          CGGCTTCTGCAGTCGGAATGAGTACAATATAACACCCTTAACGAGGAACA
+Lampocteis_cruentiventer       CGGCTTCTGCAGTCGGAATGAGTACAATATAACACCCTTAACGAGGAACA
+Lobata_sp                      CGGCTTCTGCAGTCGGAATGAGTACAATATAACACCCTTAACGAGGAACA
+                                *** ************************ ********************
+
+Bolinopsis_infundibulum        ATTGGAGGGCAAGTCTGGTGCCAGCAGCCGCGGTAATTCCAGCTCCAATA
+Euplokamis_dunlapae            ATTGGAGGGCAAGTCTGGTGCCAGCAGCCGCGGTAATTCCAGCTCCAATA
+Thalassocalyce_inconstans      ATTGGAGGGCAAGTCTGGTGCCAGCAGCCGCGGTAATTCCAGCTCCAATA
+Dryodora_glandiformis          ATTGGAGGGCAAGTCTGGTGCCAGCAGCCGCGGTAATTCCAGCTCCAATA
+Lampocteis_cruentiventer       ATTGGAGGGCAAGTCTGGTGCCAGCAGCCGCGGTAATTCCAGCTCCAATA
+Lobata_sp                      ATTGGAGG-CAAGTCTGGTGCCAGCAGC-GCGGTAATTCCAGCTCCAATA
+                               ******** ******************* *********************
+
+Bolinopsis_infundibulum        GCGTATATTAAAGTTGTTGCAGTTAAAAAGCTCGTAGTTGGATTTCGGAA
+Euplokamis_dunlapae            GCGTATATTAAAATTGCTGCAGTTAAAAAGCTCGTAGTTGAACTTCGGAA
+Thalassocalyce_inconstans      GCGTATATTAAAGTTGTTGCAGTTAAAAAGCTCGTAGTTGGATTTCGGAA
+Dryodora_glandiformis          GCGTATATTAAAGTTGTTGCAGTTAAAAAGCTCGTAGTTGGATTTCGGAA
+Lampocteis_cruentiventer       GCGTATATTAAAGTTGTTGCAGTTAAAAAGCTCGTAGTTGGATTTCGGAA
+Lobata_sp                      GCGTATATTAAAGTTGTTGCAGTTAAAAAGCTCGTAGTTGGATTTCGGAA
+                               ************ *** *********************** * *******
+
+Bolinopsis_infundibulum        CCGGCCGATTGGTCCGTCCTCTGGATCGTGTACTGATCGGTCTGTTCTTC
+Euplokamis_dunlapae            CCGGTCGATTGGTCCGTCCTCTGGATTGTGTACTGATCGATCTGTTCTTC
+Thalassocalyce_inconstans      CCGGCCGATTGGTCCGTCCTCTGGATCGTGTACTGATCGGTCTGTTCTTC
+Dryodora_glandiformis          CCGGCCGATTGGTCCGTCCTCTGGATCGTGTACTGATCGGTCTGTTCTTC
+Lampocteis_cruentiventer       CCGGCCGATTGGTCCGTCCTCTGGATCGTGTACTGATCGGTCTGTTCTTC
+Lobata_sp                      CCGGCCGATTGGTCCGTCCTCTGGATCGTGTACTGATCGGTCTGTTCTTC
+                               **** ********************* ************ **********
+
+Bolinopsis_infundibulum        TTCGCGAAGACCGCGTGTGCCCTTAACTGGGTGGGCGCGGGATTCGCGAC
+Euplokamis_dunlapae            TTCGCGAAGACCGCGTGTGCCCTTAACTGGGTGTGCACGGGATTCACGAC
+Thalassocalyce_inconstans      TTCGCGAAGACCGCGTGTGCCCTTAACTGGGTGGGCGCGGGATTCGCGAC
+Dryodora_glandiformis          TTCGCGAAGATCGCGTGTGCCCTTAACTGGGTGGACGTGCCTTTCCCGAC
+Lampocteis_cruentiventer       TTCGCGAAGACCGCGTGTGCCCTTAACTGGGTGGGCGTGGGATTCGCGAC
+Lobata_sp                      TTCGCGAAGACCGCGTGTGCC-TTAACTGGGTGGGCGCGGGATTCGCGAC
+                               ********** ********** ***********  *  *   *** ****
+
+Bolinopsis_infundibulum        GTTTACTTTGAAAAAATTAGAGTGTTCAAAGCAGGCAGTCGCTTGAATAT
+Euplokamis_dunlapae            GTTTACTTTGAAAAAATTAGAGTGTTCAAAGCAGGCATTCGCTTGAATAT
+Thalassocalyce_inconstans      GTTTACTTTGAAAAAATTAGAGTGTTCAAAGCAGGCAGTCGCTTGAATAT
+Dryodora_glandiformis          GTTTACTTGGAAAAAA----------------------------------
+Lampocteis_cruentiventer       GTTTACTTTGAAAAAATTAGAGTGTTCAAAGCAGGCAGTCGCTTGAATAT
+Lobata_sp                      GTTTACTTTGAAAAAATTAGAGTGTTCAAAGCAGGCAGTCGCTTGAATAT
+                               ******** *******                                  
+
+Bolinopsis_infundibulum        CTCAGCATGGAATAATAGAATAGGACTTTGGTCTTATTTTGTTGGTTTCC
+Euplokamis_dunlapae            CTCAGCATGGAATAATAGAATAGGACTTTGGTCTTATTTTGTTGGTTTCC
+Thalassocalyce_inconstans      CTCAGCATGGAATAATAGAATAGGACTTTGGTCTTATTTTGTTGGTTTCC
+Dryodora_glandiformis          --------------------------------------------------
+Lampocteis_cruentiventer       CTCAGCATGGAATAATAGAATAGGACTTTGGTCTTATTTTGTTGGTTTCC
+Lobata_sp                      CTCAGCATGGAATAATAGAATAGGACTTTGGTCTTATTTTGTTGGTTTCC
+                                                                                 
+
+Bolinopsis_infundibulum        GAGACCGAAGTAATGATTAATAGGGACAGTTGGGGGCATTCGTATTTCAT
+Euplokamis_dunlapae            GAGACCGAAGTAATGATTAATAGGGACAGTTGGGGGCATTCGTATTTCAT
+Thalassocalyce_inconstans      GAGACCGAAGTAATGATTAATAGGGACAGTTGGGGGCATTCGTATTTCAT
+Dryodora_glandiformis          --------------------------------------------------
+Lampocteis_cruentiventer       GAGACCGAAGTAATGATTAATAGGGACAGTTGGGGGCATTCGTATTTCAT
+Lobata_sp                      GAGACCGAAGTAATGATTAATAGGGACAGTTGGGG-CATTCGTATTTCAT
+                                                                                 
+
+Bolinopsis_infundibulum        TGTCAGAGGTGAAATTCTTGGATTTATGAAAGACGAACTTCTGCGAAAGC
+Euplokamis_dunlapae            TGTCAGAGGTGAAATTCTTGGATTTATGAAAGACGAACTTCTGCGAAAGC
+Thalassocalyce_inconstans      TGTCAGAGGTGAAATTCTTGGATTTATGAAAGACGAACTTCTGCGAAAGC
+Dryodora_glandiformis          -----------------------------AAGACGAACTTCTGCGAAAGC
+Lampocteis_cruentiventer       TGTCAGAGGTGAAATACT--------------------------------
+Lobata_sp                      TGTCAGAGGTGAAATTCTTGGATTTATGAAAGACGAACTTCTGCGAAAGC
+                                                                                 
+
+Bolinopsis_infundibulum        ATTTGCCAAGGATGTTTTCATTAATCAAGAACGAAAGTTGGAGGCTCGAA
+Euplokamis_dunlapae            ATTTGCCAAGGATGTTTTCATTAATCAAGAACGAAAGTTGGAGGCTCGAA
+Thalassocalyce_inconstans      ATTTGCCAAGGATGTTTTCATTAATCAAGAACGAAAGTTGGAGGCTCGAA
+Dryodora_glandiformis          ATTGGCCAAGGATGTTTTCATTAATCAAGAACGAAAGTTGGAGGCTCGAA
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      ATTTGCCAAGGATGTTTTCATTAATCAAGAACGAAGTTGGAGGCTCGAAG
+                                                                                 
+
+Bolinopsis_infundibulum        GACGATCAGATACCGTCCTAGTTCCAACCATAAACGATGCCGTCTGCGGA
+Euplokamis_dunlapae            GACGATCAGATACCGTCCTAGTTCCAACCATAAACGATGCCGTCTGCGGA
+Thalassocalyce_inconstans      GACGATCAGATACCGTCCTAGTTCCAACCATAAACGATGCCGTCTGCGGA
+Dryodora_glandiformis          GACGATCAGATACCGTCCTAGTTCCAACCATAAACGATGCCGTCTGCGGA
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      ACGATCAGATACCGTCCTAGTTCCAACCATAAACGATGCCGTCTGCGGAT
+                                                                                 
+
+Bolinopsis_infundibulum        TCGGAGGTCGCTCATGTAAGGCTCCTTCGGCACGCTATGAGAAATCAAAG
+Euplokamis_dunlapae            TCAGCGGTCGCTCATTTAAGGCTCCGTTGGCACGCTATGAGAAATCAAAG
+Thalassocalyce_inconstans      TCGGAGGTCGCTCATGTAAGGCTCCTTCGGCACGCTATGAGAAATCAAAG
+Dryodora_glandiformis          TCGGAGGTCGCTCATGTAAGGCTCCTTCGGCACGCTATGAGAAATCAAAG
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      CGGAGGTCGCTCATGTAAGGCTCCTTCGGCACGCTATGAGAAATCAAAGA
+                                                                                 
+
+Bolinopsis_infundibulum        ACTTCGGGTTCCGGGGGGAGTATGTTCGCAAGAATGAAACTTAAAGGAAT
+Euplokamis_dunlapae            ACTTCGGGTTCCGGGGGGAGTATGTTCGCAAGAATGAAACTTAAAGGAAT
+Thalassocalyce_inconstans      ACTTCGGGTTCCGGGGGGAGTATGTTCGCAAGAATGAAACTTAAAGGAAT
+Dryodora_glandiformis          ACTTCGGGTTCCGGGGGGAGTATGTTCGCAAGAATGAAACTTAAAGGAAT
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      CTTCGGTTCCGGGGGGAGTATGTTCGCAAGAATGAAACTTAAAGGAATTG
+                                                                                 
+
+Bolinopsis_infundibulum        TGACGGAAGGGCACCACCAGGAGTGGAACCTGCGGTTTAATTTGACTCAA
+Euplokamis_dunlapae            TGACGGAAGGGCACCACCAGGAGTGGAACCTGCGGCTTAATTTGACTCAA
+Thalassocalyce_inconstans      TGACGGAAGGGCACCACCAGGAGTGGAACCTGCGGTTTAATTTGACTCAA
+Dryodora_glandiformis          TGACGGAAGGGCACCACCAGGAGTGGAACCTGCGGTTTAATTTGACTCAA
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      ACGGAAGGCACCACCAGGAGTGGAACCTGCGGTTTAATTTGACTCAACAC
+                                                                                 
+
+Bolinopsis_infundibulum        CACGGGAAAACTCACCAGGTCCAGACATAGGAAGGATTGACAGATTGAGA
+Euplokamis_dunlapae            CACGGGAAAACTCACCAGGTCCAGACATAGGAAGGATTGACAGATTGAGA
+Thalassocalyce_inconstans      CACGGGAAAACTCACCAGGTCCAGACATAGGAAGGATTGACAGATTGAGA
+Dryodora_glandiformis          CACGGGAAAACTCACCAGGTCCAGACATAGGAAGGATTGACAGATTGAGA
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      GGGAAAACTCACCAGGTCCAGACATAGGAAGGATTGACAGATTGAGAGCT
+                                                                                 
+
+Bolinopsis_infundibulum        GCTCTTTCTTGATTCTATGGGTGGTGGTGCATGGCCGTTCTTAGTTGGTG
+Euplokamis_dunlapae            GCTCTTTCTTGATTCTATGGGTGGTGGTGCATGGCCGTTCTTAGTTGGTG
+Thalassocalyce_inconstans      GCTCTTTCTTGATTCTATGGGTGGTGGTGCATGGCCGTTCTTAGTTGGTG
+Dryodora_glandiformis          GCTCTTTCTTGATTCTATGGGTGGTGGTGCATGGCCGTTCTTAGTTGGTG
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      CTTTCTTGATTCTATGGGTGGTGGTGCATGGCCGTTCTTAGTTGGTGGAG
+                                                                                 
+
+Bolinopsis_infundibulum        GAGTGATTTGTCTGGTTAATTCCGTTAACGAACGAGACCTTAACCTGCTA
+Euplokamis_dunlapae            GAGTGATTTGTCTGGTTAATTCCGTTAACGAACGAGACCTTAACCTGCTA
+Thalassocalyce_inconstans      GAGTGATTTGTCTGGTTAATTCCGTTAACGAACGAGACCTTAACCTGCTA
+Dryodora_glandiformis          GAGTGATTTGTCTGGTTAATTCCGTTAACGAACGAGACCTTAACCTGCTA
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      TGATTTGTCTGGTTAATTCCGTTAACGAACGAGACTTAACCTGCTAAATA
+                                                                                 
+
+Bolinopsis_infundibulum        AATAGTGACACGGTTCTTTGAACCGTGGCTCACTTCTTAGAGGGACTATC
+Euplokamis_dunlapae            AATAGTGACGCGGTTCATCGAACCGTGGGCCACTTCTTAGAGGGACTATC
+Thalassocalyce_inconstans      AATAGTGACACGGTTCCTTGAACCGTGGCTCACTTCTTAGAGGGACTATC
+Dryodora_glandiformis          AATAGTGACACGGTTCAT-GAACCGTGGCTCACTTCTTAGAGGGACTATC
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      GTGACACGGTTCCTTGAACCGTGGCTCACTTCTTAGAGGGACTATCGGTT
+                                                                                 
+
+Bolinopsis_infundibulum        GGTTTCAAACCGATGGAAGTTTGAGGCAATAACAGGTCTGTGATGCCCTT
+Euplokamis_dunlapae            GGATTCAAACCGATGGAAGTGTGAGGCAATAACAGGTCTGTGATGCCCTT
+Thalassocalyce_inconstans      GGTTTCAAACCGATGGAAGTTTGAGGCAATAACAGGTCTGTGATGCCCTT
+Dryodora_glandiformis          GGTTTCAAGCCGATGGAAGTTTGAGGCAATAACAGGTCTGTGATGCCCTT
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      TCAAACCGATGGAAGTTTGAGGCAATAACAGGTCTGTGATGCCCTTAGAT
+                                                                                 
+
+Bolinopsis_infundibulum        AGATGTTCTGGGCCACACGCGCGTTACACTGATGAAGCCAGCGAGTATAT
+Euplokamis_dunlapae            AGATGTTCTGGGCCGCACGCGCGTTACACTGATGAATGCAGCGAGTATAT
+Thalassocalyce_inconstans      AGATGTTCTGGGCCACACGCGCGTTACACTGATGAAGCCAGCGAGTATAT
+Dryodora_glandiformis          AGATGTCCTGGGCCACACGCGCGTTACACTGATGAAGCCAACGAGTACAT
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      GTTCTGGGCCACACGCGCGTTACACTGATGAAGCCAGCGAGTATATCGCC
+                                                                                 
+
+Bolinopsis_infundibulum        CGCCTTCACCGGAAGGTGCGGGTAATCTTGTGAAACTTCATCGTGCTGGG
+Euplokamis_dunlapae            CGCCTTCACCGAAAGGTGCGGGTAATCTTGTCAAACTTCATCGTGCTGGG
+Thalassocalyce_inconstans      CGCCTTCACCGGAAGGTGCGGGTAATCTTGTGAAACTTCATCGTGCTGGG
+Dryodora_glandiformis          CGCCTTCACCGGAAGGTGCGGGTAATCTTGTGAAACTTCATCGTGCTGGG
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      TTCACCGGAAGGTGCGGGTAATCTTGTGAAACTTCATCGTGCTGGGGATA
+                                                                                 
+
+Bolinopsis_infundibulum        GATAGACCATTGCAATTATTGGTCTTGAACGAGGAATTCCTAGTAAGCAC
+Euplokamis_dunlapae            GATAGACCATTGCAATTTTTGGTCTTGAACGAGGAATTCCTAGTAAGCAC
+Thalassocalyce_inconstans      GATAGACCATTGCAATTATTGGTCTTGAACGAGGAATTCCTAGTAAGCAC
+Dryodora_glandiformis          GATAGACCATTGCAATTTTTGGTCTTGAACGAGGAATTCCTAGTAAGCAT
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      GACCATTGCAATTATTGGTCTTGAACGAGGAATTCCTAGTAAGCACGAGT
+                                                                                 
+
+Bolinopsis_infundibulum        GAGTCATCAACTCGTGCTGATTACGTCCCTGCCCTTTGTACACACCGCCC
+Euplokamis_dunlapae            GAGTCATCAACTCGTGCTGATTACGTCCCTGCCCTTTGTACACACCGCCC
+Thalassocalyce_inconstans      GAGTCATCAACTCGTGCTGATTACGTCCCTGCCCTTTGTACACACCGCCC
+Dryodora_glandiformis          GAGTCATCAACTCGTGCTGATTACGTCCCTGCCCTTTGTACACACCGCCC
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      CATCAACTCGTGCTGATTACGTCCCTGCCCTTTGTACACACCGCCCGTCG
+                                                                                 
+
+Bolinopsis_infundibulum        GTCGCTACTACCGATTGAATGGTTTAGTGAGATCTCGAGATTGGCGACGC
+Euplokamis_dunlapae            GTCGCTACTACCGATTGAATGGTTTAGTGAGATCTCGGGATTGGCGATGC
+Thalassocalyce_inconstans      GTCGCTACTACCGATTGAATGGTTTAGTGAGATCTCGGGATTGGCGACGC
+Dryodora_glandiformis          GTCGCTACTACCGATTGAATGGTTTAGTGAGATCTCGGGATTGGCGACGC
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      CTACTACCGATTGAATGGTTTAGTGAGATCTCGGGATTGGCGACGCCATG
+                                                                                 
+
+Bolinopsis_infundibulum        ---------CATGCCGCGAGGCACGGTGCCGCCGAGAACTTGCTCAAACT
+Euplokamis_dunlapae            ---------CTTGCCGCAAGGCACAGTATCGCCGAAAACTTGCTCAAACT
+Thalassocalyce_inconstans      ---------CATGCCGCGAGGCACGGTGCCGCCGAAAACTTGCTCAAACT
+Dryodora_glandiformis          TT-------CGTGCCGCAAGGCACGGCGCCGCCGAAAACTTGCTCAAACT
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      CCGCGAGGCACGGTGCCGCCGAGAACTTGCTCAAACTTGATCATTTAGAG
+                                                                                 
+
+Bolinopsis_infundibulum        TGATCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACC
+Euplokamis_dunlapae            TGATCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACC
+Thalassocalyce_inconstans      TGATCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACC
+Dryodora_glandiformis          TGATCATTTAGAGGAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACC
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      GAAGTAAAAGTCGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCA
+                                                                                 
+
+Bolinopsis_infundibulum        TGCGGAAGGATCATTA-CTATATAACAAATA-ATTTGAGCTATG------
+Euplokamis_dunlapae            TGCGGAAGGATCATTA-CTTATTACTAAATTTAATTGAGCTATG------
+Thalassocalyce_inconstans      TGCGGAAGGATCATTAACTTTATACAATCTAATTTTGAGCGATGTTTAAA
+Dryodora_glandiformis          TGCGGAAGGATCATTA---TTAT-CAACACAAATTTGAGCTATGGCT---
+Lampocteis_cruentiventer       ----ATTAAACAAATA-ATTTGAGCAAGATG-TCTAAAACAGTGGTTACA
+Lobata_sp                      TTATATTAAACAAATA-ATTTGAGCAAGATG-TCTAAAACAGTGGTTTCA
+                                        *  * **          *       *  * *  **      
+
+Bolinopsis_infundibulum        AAACTGTTCGCACTGGTTTTACTTTTGGTTGCTCCTGCAACAGCTTTACT
+Euplokamis_dunlapae            CTTCGTTCCGTTGCACTATTGCTGGTGCTAGGAAGTGCTTCTGCCTTCCT
+Thalassocalyce_inconstans      CTACTTCTCCTTCTGGGAGTATTCTCGGTTCCTGCAGCGACCATCGACCT
+Dryodora_glandiformis          CGATCTGCGATATTATTGATACTTTTGGTGGCACCTGCTGCCGCCTTCCT
+Lampocteis_cruentiventer       CTAGCATTGCTGCTAGGAATCTTCGTCGTTCCTACTACGGCGTTC---CT
+Lobata_sp                      CTAGCATTGCTGCTAGGAATCTTCGTCGTTCCTACTTCGGCGTTCGGCCT
+                                                  *  *     *        *  *       **
+
+Bolinopsis_infundibulum        TCCCGACCTTTTGGAAAAACTGTGGCCGGAACAAAATGAGGGTGTGTTCG
+Euplokamis_dunlapae            GCCCACCCTTATCGAGAAATTGTGGACTGAGGATTCTGCTGAAGGTTTTT
+Thalassocalyce_inconstans      ATCTGCACTTATTGAACAATTGTGGCCTAACGAGTCTACTGGCGTATTCG
+Dryodora_glandiformis          CCCTGACCTGCTGGCAAAGCTGTGGCCCACGCAAACTGGAGGAGATTTCG
+Lampocteis_cruentiventer       ACCTGATCTACTCGAAAAGTTGTGGCCTAAGGAAACGGGTCAAGTATTTG
+Lobata_sp                      ACCTGAGCTACTCGAAAAGTTGTGGCCTAAGGAAACGGGTCAAGTATTTG
+                                 *    **  * *   *  ***** *     *          *  **  
+
+Bolinopsis_infundibulum        ATGGGGTAGCCAGAATCCCATACTTGGACCTCCTCAACGACAACTCCTAC
+Euplokamis_dunlapae            CCGGAGTTGCCCGTATCCCCTTCAAGGATCTCCTGAGCGGAAATGTCTAC
+Thalassocalyce_inconstans      ACTCTGTAGCCAAGATCCCGTACACAGACCTCCTGAATGACAACCCCTAC
+Dryodora_glandiformis          ACGGAGTTGCTAGGGTCCCCTACCTGGACCTTGTCAACGGAAACGCCTAC
+Lampocteis_cruentiventer       ACACGGTAGCACGGATCCCCTACAATGACCTCCTCAATGACAATCCCTAC
+Lobata_sp                      ACACGGTAGCACGGATCCCCTACAATGAGCTCCTCAATGACAATCCCTAC
+                                    ** **     **** * *   ** **  * *  *  **   ****
+
+Bolinopsis_infundibulum        ATTGACCCCTTCCTCCTCCAGTCCATGAAGAAATACGGATATTTCTACGT
+Euplokamis_dunlapae            GTCGATCCCTTCATCCTCCAGTCCATGAAGAAATTCGGATTCTTCTACGT
+Thalassocalyce_inconstans      GTCGACCCATTCGTTCTCCACTCCATGAAAACCTACGGTTTCTTCTACGT
+Dryodora_glandiformis          GTGGACCCCTTCGTTCTCCAATCTATGAAGACCTACGGATTCTTCTACGT
+Lampocteis_cruentiventer       GTCGACCCTTTCATTGTTCACTCAATGAAAAGCTTCGGTTTCTTCTACGT
+Lobata_sp                      GTCGACCCTTTCATTGTACACTCAATGAAAAACTTCGGCTTCTTCTACGT
+                                * ** ** *** *  * ** ** ***** *  * *** *  ********
+
+Bolinopsis_infundibulum        TGTGGATGTCCCTGAGTACAGCGCTTCTCTTGAGCAGGACATCATGAAGC
+Euplokamis_dunlapae            CGTTGATGTCCCTGAGTACAACGCCACCGTCGAATTGGACTACCTCAAGA
+Thalassocalyce_inconstans      TGTGGATGTCCCCAATTACAGCGCCGAGGCTGAGCTGGAACTCATGACGA
+Dryodora_glandiformis          CGTTGAGGTCCCCGAGTACAGTGCTGACAAAGAACACGTCGTCATGAAGA
+Lampocteis_cruentiventer       GGTGGATGTGCCTGACTACGACGCTTCTGTAGAAGACGAGTACCTGCAGC
+Lobata_sp                      GGTGGATGTGCCTGACTACGACGCTTCTGTAGAAGACGAGTACCTGCAGC
+                                ** ** ** **  * ***   **       **    *    * *   * 
+
+Bolinopsis_infundibulum        AGTTCTACGATCTGGATGAGGATGTCAAGGACGAGATTGCTATCAGGAGA
+Euplokamis_dunlapae            GATTCTTCGAGCTCCCCGAGGAACAGAAGGACGACCTTGCCATCAAGAAA
+Thalassocalyce_inconstans      CCTTCTTCGGTCTACCAGAGGACGTCAAAGCCGATGTAGAAATTAGGGCA
+Dryodora_glandiformis          AGTTCTTCGAACTGGACGAAGATGTCAAGGATGAAATGTCAATCCGAAGA
+Lampocteis_cruentiventer       AGTTCTTTAATCTGCCTGAGAAGGTCAAAGCCGATACAGAAATCAAGAGA
+Lobata_sp                      AGTTCTTTAATCTACCTGAGAAGGTCAAAGCTGATACAGAAATCAAGAGA
+                                 ****     **    **  *    ** *  **       **      *
+
+Bolinopsis_infundibulum        CACAACCCCGCCAACAAGAATGCTTATCGAGGATACTGCCCCGGACTTGA
+Euplokamis_dunlapae            CACAACGCCGCCAACCCCAACGCTTACAGAGGTTTCTGCCCCGGAGTTGA
+Thalassocalyce_inconstans      CACAACCCAGCCAACGCTAACGCCTATCGAGGTTACTGCCCGGGGCTTGA
+Dryodora_glandiformis          CACAACCCCCTCAACAAGAACGCATACAGAGGATACTGCCCGGGCCTTGA
+Lampocteis_cruentiventer       CACAACCCAGCCAACAAAAACGCATACAGAGGTTACTGCCCGGGGTTAGA
+Lobata_sp                      CACAACCCAGCCAACAAAAACGCATACAGAGGTTACTGCCCGGGACTAGA
+                               ****** *   ****   ** ** **  **** * ****** **  * **
+
+Bolinopsis_infundibulum        CGATGTTGAGAACACCCTCCAATACAAGAACCTCTACAACATTGGACCCC
+Euplokamis_dunlapae            TGATGTTGACAGTACTCTCCAGTTCAAGGATGTCTTCAACATTGGACCCC
+Thalassocalyce_inconstans      TGACATTGACGCTACTCTTCAATACAAGAACATCTTCAACATTGGCCCAC
+Dryodora_glandiformis          CGACGTAGAAAACACCCTGCAGTACAAGAACCTGTTCAACATCGGACCTC
+Lampocteis_cruentiventer       TGATGTGGAAGCTACCCTGCAGTACAAGGAAGTATTCAACATTGGCCCGC
+Lobata_sp                      TGATGTGGAAGCTACCCTGCAGTACAAGGAAGTATTCAACATAGGCCCGC
+                                **  * **    ** ** ** * **** *  * * ****** ** ** *
+
+Bolinopsis_infundibulum        ACGAGACCCGAGCTGCAAGCTTCGAGAG--T----GACGACATC-CTCGA
+Euplokamis_dunlapae            ATGAGACCAAAGCCCCCAAGCCCGACAACAT----GAAGACCCCTCTTGA
+Thalassocalyce_inconstans      ACGAGACCCGAGCACCTTTCTTCGACAACTCCCTGGACGATGCC-ACAGA
+Dryodora_glandiformis          ACGAGACGAGGGCTCCCTCTTACGAAGGC-------AGCACTCTCATGGA
+Lampocteis_cruentiventer       ACGAAACACGTGCTCCATTCTACGACGACTCTCTGAGCAGTGAC-CTAGA
+Lobata_sp                      ACGAAACACGTGCTCCTTTCTACGACGACTCTCTGAGCAATGAC-CTAGA
+                               * ** **    **  *      ***                       **
+
+Bolinopsis_infundibulum        GAAACTCAGATACGACTGCCAGGAACCCAACGTATGGCCCGAGACCGGTA
+Euplokamis_dunlapae            CAGAATGAGATACGAGGTCACCGAGCCCAATGTCTGGCCTGAGACTGATG
+Thalassocalyce_inconstans      GAAGCTGAGATACGACGTCCAGGAACCCAATGTCTGGCCCAACACTGACA
+Dryodora_glandiformis          CAAGCTGAGGTACGACTGCCAGGAACCCAACGTTTGGCCCCAGACTGGTG
+Lampocteis_cruentiventer       AAAACTGAAATATGAATGTTCGGAAGCAAACGTATGGCCGGAGACCGATA
+Lobata_sp                      AAAACTGAAATATGAATGTTCGGAAGCAAACGTATGGCCGGAGACCGATA
+                                *   * *  ** **       **  * ** ** *****  * ** *   
+
+Bolinopsis_infundibulum        ACTGCACCTTCGACAAAGTATTCAAGGAGACCTTCCAGGCTGGATTCGAA
+Euplokamis_dunlapae            ATGCTGCCTTCGATTACGGATTCAAGAAAGTCTTCCAGGCTGGATTCGAG
+Thalassocalyce_inconstans      ACTGTGACTTCGACAAGGAATTCAAGGAAACTTTCCAGGCTGGCTTTGAA
+Dryodora_glandiformis          ACTGCGACTTCGACATCGAATTCAAGACCATTTTCCAGAAGGGCTTCGAG
+Lampocteis_cruentiventer       ACTGCACGTTTGATAAAGGGTTTAAGGAGGTCTTCCAAACGGGCTTTGAC
+Lobata_sp                      ACTGCACGTTTGATAAAGGGTTTAAGGAGGTCTTCCAAACGGGCTTTGAC
+                               *       ** **    *  ** ***      *****    ** ** ** 
+
+Bolinopsis_infundibulum        ATCAGGAGGAACGTCGGAAGAGCTTTCATCAGGAGCATTGCCCGAGCCAT
+Euplokamis_dunlapae            ATCAGACGTAACATCGGACGTGCCTTCGTCAAGTCTGTTGCCCGTGCCCT
+Thalassocalyce_inconstans      CTCAGGAGAGGAATCGCAAGAGCGTTTGTCAGGAGCATCAGCCGATCTCT
+Dryodora_glandiformis          ATCAGGCGGAACGTGGGACGGGCCTTTGTCAGGAGTATCGCCCGATCTGT
+Lampocteis_cruentiventer       ATGAGGAGGAACATTGCGAGAGCGTTCGTTAGGAGCATTAGTCGAGCACT
+Lobata_sp                      ATGAGGAGGAACATTGCGAGAGCGTTCGTTAGGAGCATTAGTCGAGCACT
+                                * **  *     * *   * ** **  * * *    *    **  *  *
+
+Bolinopsis_infundibulum        GGAGTACCCCAACCTGCCCGCTCTCTTTTCTGAGGACGAGTTCTCTGCTA
+Euplokamis_dunlapae            CAACATGCCCAAGCTCCCTGAACTTTTCGTCGATGATGAGTTCTCCGCCA
+Thalassocalyce_inconstans      GGAGATGCCCGCCCTTCCTTCCCTGTTTACTGAAGACGAGTTCTCCGCAA
+Dryodora_glandiformis          GAACTACCCAGGACTTCCCAACCTATTCAAGGAGGACGAGTTCTCTGCTA
+Lampocteis_cruentiventer       GGGATTCCCTAATCTTCCCTCCTTGTTTAACGAAGACGAGTTTTCAGCAA
+Lobata_sp                      GGGATTCCCTAATCTTCCCTCCTTGTTTTCTGAAGACGAGTTTTCAGCAA
+                                      **    ** **     * **    ** ** ***** ** ** *
+
+Bolinopsis_infundibulum        TGGGACTCAGGAAATACCCCATCCGA---AGAAAGATCAACAGCAACATG
+Euplokamis_dunlapae            TGGGTCTCAGAAGATACCTCCAGAGA---AACGAGATCAACTCCAACATG
+Thalassocalyce_inconstans      TGGGTCTGAGGAAGTACCCAGAGAGG---AACGACGTGAACACCAACATG
+Dryodora_glandiformis          TGGGACTCAGGAAATACCCCATCAGG---AAGGCTATCAACGAGAACATG
+Lampocteis_cruentiventer       TGGGACTGAGGAGGTATCCCGTCAGATCAGAGAGGACAAACAAAAACATG
+Lobata_sp                      TGGGACTGAGGAGGTATCCCGTCAGATCAGAGAGGACAAACAAAAACATG
+                               **** ** ** *  ** *      *             ***   ******
+
+Bolinopsis_infundibulum        TACTCTGACTTTGACGGAACTCTCCTGAGAGAACTGGAACACATTGACTC
+Euplokamis_dunlapae            TACTCCGACTACGACAACGTTTTGTTGAGAGAGCTCGAGCACGTTGACTC
+Thalassocalyce_inconstans      TACTCCGACTTTGACGGTGAACTGTTGAGGGAGCTTGAACATGTCGATTC
+Dryodora_glandiformis          TACTCCGACTTCGATGGAACTCTGCTGCGAGAACTTGAGCACATCGACTC
+Lampocteis_cruentiventer       TACTCCGATTTTGACGGTCTACTATTGAGGGAGCTTGAACACATTGACTC
+Lobata_sp                      TTCTCCGATTTTGACGGTGAACTATTGAGGGAGCTTGAACACATTGACTC
+                               * *** ** *  **        *  ** * ** ** ** **  * ** **
+
+Bolinopsis_infundibulum        TACCGTCACCGTCCTCTCCACCTTCAACAACGATGGTCTTGAGGTGCTCT
+Euplokamis_dunlapae            CACAGTCACCGTCCTGTCCACCTTCAACAACGGAGGACTCCAGATGCTCC
+Thalassocalyce_inconstans      TACTGTCACAGTCCTTTCTACCTTCGAGAACAGCGGTCTCCAGATGCTGT
+Dryodora_glandiformis          GACCGTGACTGTCCTCTCCACCTTCAATAACGGCGGACTCGAGATGCTGT
+Lampocteis_cruentiventer       TACCGTGACAGTCCTGTCTACCTTCAACAATGGCGGATTACAGGTGTTGT
+Lobata_sp                      TACCGTGACAGTCCTATCTACCTTCAACAATGGCGGATTACAGATGTTGT
+                                ** ** ** ***** ** ****** * **    **  *  ** ** *  
+
+Bolinopsis_infundibulum        ACAAGAACCAGTACCGAGCCGTTCCCGTGACCGGAGAAAACTCCTTCATC
+Euplokamis_dunlapae            ACAACAACAAATACCAAGAGGCCCCTGTCACCGGAGACAACGCCTTCATT
+Thalassocalyce_inconstans      ACAGGAACGAGTACAGAGATGCACCCAACTCCGGA---AATGGATTCATC
+Dryodora_glandiformis          ACAAGGATGAGTACAGGCCAGCCCCCGTCACCGGAGACAACTCTTTCATC
+Lampocteis_cruentiventer       ACAAGAACCAATACATGGATGCCCCTGTAACCGGAGACAATGCGTTCCTT
+Lobata_sp                      ACAAGAACCAATACATGAATGCCCCTGTAACCGGAGACAATGCGTTCCTT
+                               ***   *  * ***      *  **     *****   **    *** * 
+
+Bolinopsis_infundibulum        GTCAACATCGGAAAGCTGGTAGATGACCTGATCGACAACAAGGTGCCCTC
+Euplokamis_dunlapae            GTCAACATCGGAAAACTCGTTGATGACATCATCGATAACCACCTCACCAA
+Thalassocalyce_inconstans      GTCAACATCGGCAAACTCGTGGACGACATCATCGACAACGAACTGGTTTC
+Dryodora_glandiformis          GTGAACATCGGAAAACTGGTAGATGACCTGATCGATAACGAGGTACCGTC
+Lampocteis_cruentiventer       GTCAACATTGGAAAACTAGTAGAGGACCTCATCGATAACCAGCTCACATC
+Lobata_sp                      GTCAACATTGGAAAACTAGTAGAGGACATCATCGATAACCAGCTAATATC
+                               ** ***** ** ** ** ** ** *** * ***** *** *  *      
+
+Bolinopsis_infundibulum        AGTCAGACACAGAGTTGCTGAAGTTGACTTTGATAGATACTCTATCACCT
+Euplokamis_dunlapae            CGTGAGACACAGAGTCGCTGAGGTCAACTTCACCAGATACTCCATCACCT
+Thalassocalyce_inconstans      TGTCCGACACAGAGTAAAGGAAGTGTCATTCGACAGATACTCCATCACTT
+Dryodora_glandiformis          CGTGAAACACAGGGTCGCTGAGGTCGACTACGACAGATACTCCATCACTT
+Lampocteis_cruentiventer       AGCCAGACACAGGGTGGTTGAGACGAGCTATACTAGACACTCCATAACCT
+Lobata_sp                      AGTCAGACACAGGGTGATTGAGACGGCCTATACTAGACACTCCATAACCT
+                                *    ****** **    **       *     *** **** ** ** *
+
+Bolinopsis_infundibulum        ACTTCCTGGGACCCCAATTCGATGCTGATATCAGCCGAAGTGTGAGCGGT
+Euplokamis_dunlapae            ACTTCCTCGGACCCCAGTTCGATGCCCCTATCGACAAGTCCATGACTGGA
+Thalassocalyce_inconstans      ACTTCCTGGGACCCTCATTTGATGCTGATATCAGCAGAAGTATGTCTGGA
+Dryodora_glandiformis          ACTTCCTCGGACCCCAGTTTGATGCTGACATCAAAACAAGCATGAGTGGA
+Lampocteis_cruentiventer       ACTTTTTAGGCCCCGCATTTGACGCTGATATCAGTAGAAGTATGACTGGA
+Lobata_sp                      ACTTTTTAGGCCCCGCATTTGACGCTGATATCAGTAGAAGTATGACTGGG
+                               ****  * ** ***   ** ** **    ***          **   ** 
+
+Bolinopsis_infundibulum        AAACTGACCGACGCTGGACAAAAATACACCATCTTCGGAGAATGGATCAA
+Euplokamis_dunlapae            GAGCCCACTGAGGCTGGACGTAAATACAGCATCTTCGGAGAGTGGGTCAG
+Thalassocalyce_inconstans      GAGATCACCGAGGCTGGACACAAGTACACCATCTTCGGAGAATGGATCAA
+Dryodora_glandiformis          AAAGTGACCGACGCCGGATACAAGTACAACATCTTCGGAGAGTGGATCAA
+Lampocteis_cruentiventer       CAGATAACTGAGGCAGGACATAAATACCGAATCTTTGGAGAGTGGATAAA
+Lobata_sp                      TACATAACAGAGGCAGGACATAAATACCGAATCTTTGGAGAGTGGATAAA
+                                *    ** ** ** ***   ** ***   ***** ***** *** * * 
+
+Bolinopsis_infundibulum        GGACTACCTTGGTGCTATTGAACTCTTCTACTACTAAACAG--------A
+Euplokamis_dunlapae            AGATTACCTCGGAGCCATCGAACTCTTCTACTACTAGA-----------A
+Thalassocalyce_inconstans      GGACTACCTCGGAGCAATTGAGCTGTTCTACTACTAAA-----------A
+Dryodora_glandiformis          GGATTACCTTGGTGCCATCGAGCTCTTCTATTATTAAA------------
+Lampocteis_cruentiventer       GGATTATCTAGGAGCAATTGAATTGTTCTATTATTAAAAGACCTCCCGTG
+Lobata_sp                      GGATTATCTGGGAGCAATTGAATTGTTTTATTATTAAAAGAT--------
+                                ** ** ** ** ** ** **  * ** ** ** ** *            
+
+Bolinopsis_infundibulum        GATGAGCTCTCAGCGTGGTTAGA-TTGAAACGGTATG----AGGAATTCA
+Euplokamis_dunlapae            GATTGCTACCACCCGTGAAAGAACTTGACACAGCTCGTTACGGATGTCCT
+Thalassocalyce_inconstans      GGCAGGC-CCCATCGAGACAGTTCACGCAACAGTTCAAACGACAGCGGCA
+Dryodora_glandiformis          GAGGACAGTAAAGAGGAGATACTAAAGAAAGATTTTGAGCACGAAGCAGG
+Lampocteis_cruentiventer       AGAAAGAATACGAAACGAGGGAGCGTTAGATGCTTCACGAGAGAGCCT--
+Lobata_sp                      ----AGAATACGAAACGAGGGAGAGTTAGATGCATCACGAGTGAGCGTTC
+                                                            *                    
+
+Bolinopsis_infundibulum        -------------ATTACCTTCGGCATAAC-GAAGGTTTTTGAATCAAAT
+Euplokamis_dunlapae            -------------ATGAACCCAAGCCTGAA-CTCTGCACTGCAGTTGTAG
+Thalassocalyce_inconstans      -------------GATGATCTATGCTTTAT-ATTACTGCTT--ATTGAA-
+Dryodora_glandiformis          -------------GGCGCAGGAGTTAGGAA-CTTTGAACTCCAATACTAA
+Lampocteis_cruentiventer       -------------ACGGACCCAAGCTTCGTTAGCCAAAATGGAGCAAGGC
+Lobata_sp                      AAAGATAGTGCCAACGCACCCAATCTTCGTTAGTAAAAATGGAGCTAGTC
+                                                                      *          
+
+Bolinopsis_infundibulum        GACGACATCTTCTAAAATAAATGGACCTAAATGTTTGACTGAATTTTTGT
+Euplokamis_dunlapae            ATTGTAAGGCTGTAGGCTC--TGAGACGAGCTA--CAAACGAACAATGTT
+Thalassocalyce_inconstans      -CCCGAATTCCGTCAAAT---TGAGCTGAAGCC--TGAACTAATAAGTTT
+Dryodora_glandiformis          TCGGAACATGTATAAAATTGATTAAAAGACATTTGTGAAC--ATTATTCG
+Lampocteis_cruentiventer       TTTCAGA-CAAACTGGATG--AAAGTTAAAATAGAC--TAGTGTTTTGAT
+Lobata_sp                      TTTTAAAGCAGACTGAATG--AAAGATAAAATAGAAAGTAGTATTTAAAT
+                                                *          *                     
+
+Bolinopsis_infundibulum        TTAGAAATTGAGAAATTTAAAC----TTTTTCTTTGCCGTAAAGACTAGG
+Euplokamis_dunlapae            TTTAATATTGAGAAACTACATG----GTTACCCTGGTTACCCTGGTT---
+Thalassocalyce_inconstans      AAAACAACATATTCAATTTAAT----ATTATTTATTTTATATTAGAATAA
+Dryodora_glandiformis          TTTAGTTCATAGATATTTTCCG----TCAAATATTTTTATAATGTGACCC
+Lampocteis_cruentiventer       ATTAAAATAAGGAAAATCAC------TTTTTTTCAGAAAAACTCTATAAA
+Lobata_sp                      ATTAAAACAAGAAAAATCATATCACTTTTTTTTCAGAAAAACTCTCTAAA
+                                             * *                                 
+
+Bolinopsis_infundibulum        ATTATTTTAAACTAAAACTTTGTACACATATAAATTTGATATTTAAGGAT
+Euplokamis_dunlapae            --------------------------------------------------
+Thalassocalyce_inconstans      AGAACATCACTTTTTTTCGGAAAACTCGCTAAACTTTGTTATTTTTTATC
+Dryodora_glandiformis          ATGACTTCTTCTTGGTT------ATGTTTTTATTTATTATATCGATTTAT
+Lampocteis_cruentiventer       CTTGGTTATTTTTATAATATTATTTTTAATAATATACAGTGTTTTAGCGT
+Lobata_sp                      CTTGGGTATTTTTATAATATTATTTTTTATAATATACAGTGTTTTAGCGA
+                                                                                 
+
+Bolinopsis_infundibulum        TATTTACTATTTCCATACAATTGAAATGCATTATAAAACGCTGAAAAAAA
+Euplokamis_dunlapae            --------------------------------------------------
+Thalassocalyce_inconstans      AGCTTTTAGTTTTATAGTGG------------------------------
+Dryodora_glandiformis          AAATTGTAAAACAAAAAAAATAATGAAATTTTAGTTAAACGACAAAAAAA
+Lampocteis_cruentiventer       AATTTTCTGTTTTTTTTTGTGATTTTCCTGTGGGGTTATCGTTTTATATA
+Lobata_sp                      AATTTTCTGTTTTTTTT-GTGATTTTCCTGTGGGGTTATCGTTTTATATA
+                                                                                 
+
+Bolinopsis_infundibulum        AA------------------------------------------------
+Euplokamis_dunlapae            --------------------------------------------------
+Thalassocalyce_inconstans      --------------------------------------------------
+Dryodora_glandiformis          --------------------------------------------------
+Lampocteis_cruentiventer       CGTATTGATATACTGTTTTACTGCACGTGGCGTAGCCATTTCTTAACAAT
+Lobata_sp                      CGTATTGATATACTGTTTTACTGCACGTGGCGTAGCCATTTCTTAACAAT
+                                                                                 
+
+Bolinopsis_infundibulum        --------------------------------------------------
+Euplokamis_dunlapae            --------------------------------------------------
+Thalassocalyce_inconstans      --------------------------------------------------
+Dryodora_glandiformis          --------------------------------------------------
+Lampocteis_cruentiventer       TCTGTTTAGTAATGCATTTACGTTTTGATTTTATA---------------
+Lobata_sp                      TCTGTTTAGTAATGCATTTACGTTTTGATTTTATAATGAAAAACATATTG
+                                                                                 
+
+Bolinopsis_infundibulum        --------------------------------------------------
+Euplokamis_dunlapae            --------------------------------------------------
+Thalassocalyce_inconstans      --------------------------------------------------
+Dryodora_glandiformis          --------------------------------------------------
+Lampocteis_cruentiventer       --------------------------------------------------
+Lobata_sp                      TGAAACTTAATGATTTAAATATTTTTTGGAATGCTTTGTTTAAAATTTGC
+                                                                                 
+
+Bolinopsis_infundibulum        ---------------------
+Euplokamis_dunlapae            ---------------------
+Thalassocalyce_inconstans      ---------------------
+Dryodora_glandiformis          ---------------------
+Lampocteis_cruentiventer       ---------------------
+Lobata_sp                      ACGATTTACCTACACGATTAT
+                                                    
