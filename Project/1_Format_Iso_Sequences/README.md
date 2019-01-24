@@ -5,7 +5,7 @@
 *Purpose: Compare ctenophore phylogenies, based on two different genes.*
 
 Current step in the program:
-##1. The putative isopenicillin-N-synthase genes from NCBI (Francis et al. 2015, Plos ONE)
+1. **The putative isopenicillin-N-synthase genes from NCBI (Francis et al. 2015, Plos ONE)**
 2. Download 18s rRNA sequences from NCBI
 3. Match sequences from both markers (i.e. to create two trees based on the same number of species)
 4. Build maximum likelihood (ML) trees based on both markers
