@@ -10,7 +10,7 @@ Current step in the program:
 2. Download 18s rRNA sequences from NCBI
 3. Match sequences from both markers (i.e. to create two trees based on the same number of species)
 4. Build maximum likelihood (ML) trees based on both markers
-##5. Combine both markers and again build a ML tree
+5. **Combine both markers and again build a ML tree**
 
 
 ## Folder: 
