@@ -5,6 +5,7 @@
 *Purpose: Compare ctenophore phylogenies, based on two different genes.*
 
 Choosing molecular markers for phylogenetic studies can be challenging, as different markers will produce different phylogenetic relationships. The aim of this program is to compare ctenophore phylogeny, based on a highly common marker (18s rRNA) and a rather unusual one (putative isopenicillin-N-synthase). Additionally, both markers are combined to investigate the strength of multiple-marker phylogenies.
+NB It should be noted that comparing genes from different samples/studies is biologically incorrect and therefore only justifiable for the purpose of this exercise. 
 
 The project is organised as follows:
 1. The putative isopenicillin-N-synthase genes from NCBI (Francis et al. 2015, Plos ONE)
@@ -15,7 +16,7 @@ The project is organised as follows:
 
 
 ## Folder: Data_Repository
-Contains fasta files of the two genetic markers, downloaded from NCBI
+Contains fasta files of the two genetic markers, downloaded from NCBI. 
 
 ## Folder: Project
 Contains subdirectories for the 5 steps listed above (including codes, data and results)
